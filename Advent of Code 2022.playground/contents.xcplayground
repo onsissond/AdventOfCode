@@ -3,5 +3,6 @@
     <pages>
         <page name='Day 1 - Calorie Counting'/>
         <page name='Day 2 - Rock Paper Scissors'/>
+        <page name='Day 3 - Rucksack Reorganization'/>
     </pages>
 </playground>
