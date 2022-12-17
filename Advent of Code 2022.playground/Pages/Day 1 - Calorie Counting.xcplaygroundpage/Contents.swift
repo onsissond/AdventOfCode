@@ -1,3 +1,7 @@
+/*
+ https://adventofcode.com/2022/day/2
+ */
+
 import Foundation
 
 func solutionPart1(_ input: String) -> Int {
