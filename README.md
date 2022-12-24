@@ -1,4 +1,5 @@
 # [Advent of code](https://adventofcode.com/)
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
 ## [Advent of code 2022](https://adventofcode.com/2022)
 - [x] Day 1 - Calorie Counting
 - [x] Day 2 - Rock Paper Scissors
